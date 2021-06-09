@@ -3,8 +3,7 @@
 <p align="center">
 This is some personal experiment
 </p>
-
-**BABY-Deflationary contract.sol**
+## **BABY-Deflationary contract.sol**
 
 ​	 The extremely deflationary HRC-20 token smart contract in HECO
 
@@ -12,9 +11,7 @@ This is some personal experiment
 
 
 
-
-
-**Crowdfunding mutual assistance.sol**
+## **Crowdfunding mutual assistance.sol**
 
 ​	A test smart contract for crowdfunding mutual assistance (not officially available)
 
@@ -24,7 +21,7 @@ This is some personal experiment
 
 
 
-**HRC-20 tokens issued by me.sol**
+## **HRC-20 tokens issued by me.sol**
 
 ​	Self-optimized HRC-20 token contract, you only need to modify the content to issue your own tokens
 
@@ -34,7 +31,7 @@ This is some personal experiment
 
 
 
-**PIXIU-Limited number.sol**
+## **PIXIU-Limited number.sol**
 
 ​	A very interesting HRC-20 token contract, which can only hold a fixed currency during the first day
 
@@ -44,9 +41,9 @@ This is some personal experiment
 
 
 
-**Issue HRC-20 tokens 0.7.sol**
+## **Issue HRC-20 tokens 0.7.sol**
 
-**Issue HRC-20 tokens.sol**
+## **Issue HRC-20 tokens.sol**
 
 ​	Learn to use smart contracts
 
