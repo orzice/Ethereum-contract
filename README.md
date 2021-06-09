@@ -3,6 +3,7 @@
 <p align="center">
 This is some personal experiment
 </p>
+
 ## **BABY-Deflationary contract.sol**
 
 ​	 The extremely deflationary HRC-20 token smart contract in HECO
@@ -19,15 +20,11 @@ This is some personal experiment
 
 
 
-
-
 ## **HRC-20 tokens issued by me.sol**
 
 ​	Self-optimized HRC-20 token contract, you only need to modify the content to issue your own tokens
 
 ​	自己优化的HRC-20代币合约 只需要修改内容即可发行自己的代币
-
-
 
 
 
@@ -39,9 +36,13 @@ This is some personal experiment
 
 
 
-
-
 ## **Issue HRC-20 tokens 0.7.sol**
+
+​	Learn to use smart contracts
+
+​	学习智能合约使用
+
+
 
 ## **Issue HRC-20 tokens.sol**
 
